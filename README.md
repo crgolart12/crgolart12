@@ -28,7 +28,7 @@ Modelagem e criação de esquema relacional para controle de clientes, serviços
 
 Tecnologias: Python (Jupyter Notebook)
 
-Análise de dados de loja virtual: cálculo de métricas de vendas, visualizações e insights para otimizar vendas
+Análise de dados de loja virtual: cálculo de métricas de vendas, visualizações e insights 
 
 📫 Contato
 
